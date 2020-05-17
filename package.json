@@ -1,0 +1,11 @@
+{
+  "name": "read-specified-csv-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "lodash": "^4.17.15",
+    "moment": "^2.25.3"
+  }
+}
